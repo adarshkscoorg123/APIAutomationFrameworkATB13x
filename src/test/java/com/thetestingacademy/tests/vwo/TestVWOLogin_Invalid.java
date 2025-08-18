@@ -1,4 +1,6 @@
 package com.thetestingacademy.tests.vwo;
 
-public class TestVWOLogin {
+public class TestVWOLogin_Invalid {
+
+
 }

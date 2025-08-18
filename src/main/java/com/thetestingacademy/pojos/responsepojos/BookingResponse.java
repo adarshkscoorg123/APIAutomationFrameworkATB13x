@@ -1,6 +1,6 @@
-package ex_07_Payload_Management.Class.Manualway.responsepojo;
+package com.thetestingacademy.pojos.responsepojos;
 
-import ex_07_Payload_Management.Class.Manualway.requestPojo.Booking;
+import com.thetestingacademy.pojos.requestPojos.Booking;
 
 public class BookingResponse {
 

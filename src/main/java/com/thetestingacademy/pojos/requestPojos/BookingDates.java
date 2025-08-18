@@ -1,4 +1,4 @@
-package ex_07_Payload_Management.Class.Manualway.requestPojo;
+package com.thetestingacademy.pojos.requestPojos;
 
 public class BookingDates {
 
